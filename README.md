@@ -1,0 +1,2 @@
+# M-manager
+application android
